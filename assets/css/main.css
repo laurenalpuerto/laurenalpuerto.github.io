@@ -3923,7 +3923,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 	width: calc(100% - 4rem);
 	max-width: 72rem;
 	z-index: 2;
-	border-radius: 20px;
+	/* border-radius: 30px; */
 }
 
 #main>* {
