@@ -3823,7 +3823,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 }
 
 #nav code {
-	background: rgba(255, 255, 255, 0.075);
+	background: rgba(173, 254, 223, 0.075);
 	border-color: #ffffff;
 }
 
@@ -3917,7 +3917,7 @@ body.is-preload #intro:not(.hidden)+#header+#nav {
 /* Main */
 
 #main {
-	background-color: #ffffff;
+	background-color: #f3f2ea;
 	position: relative;
 	margin: 0 auto;
 	width: calc(100% - 4rem);
